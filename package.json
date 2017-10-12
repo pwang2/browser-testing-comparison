@@ -1,0 +1,32 @@
+{
+  "name": "browser-testing-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "chai": "^4.1.2",
+    "electron": "^1.7.9",
+    "electron-mocha": "^4.0.3",
+    "jsdom": "^11.3.0",
+    "jsdom-global": "^3.0.2",
+    "karma": "^1.7.1",
+    "karma-babel-preprocessor": "^7.0.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.4",
+    "mocha": "^4.0.1",
+    "testem": "^1.18.4",
+    "testling": "^1.7.1",
+    "webpack": "^3.7.1"
+  }
+}
