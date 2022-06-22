@@ -16,7 +16,7 @@
     "chai": "^4.1.2",
     "electron": "^1.7.9",
     "electron-mocha": "^4.0.3",
-    "jsdom": "^11.3.0",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "karma": "^1.7.1",
     "karma-babel-preprocessor": "^7.0.0",
